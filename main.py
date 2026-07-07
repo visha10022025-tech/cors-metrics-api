@@ -4,7 +4,7 @@ import uuid
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-EMAIL = "visha10022025@gmail.com"
+EMAIL = "24f3001062@ds.study.iitm.ac.in.
 ALLOWED_ORIGIN = "https://dash-bv1jt2.example.com"
 
 app = FastAPI()
